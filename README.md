@@ -59,6 +59,8 @@ Fast and Efficient Compression of Floating-Point Data(fpzip)
 
 High Throughput Compression of Double-Precision Floating-Point Data(fpc)
 - http://users.ices.utexas.edu/~burtscher/papers/dcc07a.pdf
+
+A line-by-line description of fpc
 - http://users.ices.utexas.edu/~burtscher/papers/tr08.pdf
 - http://www.ece.neu.edu/groups/nucar/GPGPU4/files/oneil.pdf
 - http://www.cs.unc.edu/~isenburg/lcpfpv/
