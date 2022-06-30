@@ -71,7 +71,7 @@ These papers describe algorithms for compressing floating point data arrays. The
 6) Lossless Compression of Predicted Floating-Point Values
 - http://www.cs.unc.edu/~isenburg/lcpfpv/ 
 
-7) Free Lossless Audio Codec, linear prediction coding
+7) Free Lossless Audio Codec, linear prediction coding, 30MB/s on i5-4200U
 - https://xiph.org/flac/
 
 8) Improving Floating Point Compression through Binary Masks
