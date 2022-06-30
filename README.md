@@ -62,6 +62,8 @@ High Throughput Compression of Double-Precision Floating-Point Data(fpc)
 
 A line-by-line description of fpc
 - http://users.ices.utexas.edu/~burtscher/papers/tr08.pdf
+
+Floating-Point Data Compression at 75 Gb/s on a GP(fpc on GPU)
 - http://www.ece.neu.edu/groups/nucar/GPGPU4/files/oneil.pdf
 - http://www.cs.unc.edu/~isenburg/lcpfpv/
 - https://xiph.org/flac/
