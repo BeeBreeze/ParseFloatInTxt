@@ -51,8 +51,10 @@ BIBLIOGRAPHY
 ===========
 These papers describe algorithms for compressing floating point data arrays. They should give a much better compression ratio than various kinds of ZIP.
 
-
+Fast Lossless Compression of Scientific Floating-Point Data
 - http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.91.7936&rep=rep1&type=pdf
+
+Fast and Efficient Compression of Floating-Point Data(fpzip)
 - http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.124.8968&rep=rep1&type=pdf
 - http://users.ices.utexas.edu/~burtscher/papers/dcc07a.pdf
 - http://users.ices.utexas.edu/~burtscher/papers/tr08.pdf
