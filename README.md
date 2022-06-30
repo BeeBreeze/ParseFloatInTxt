@@ -87,5 +87,5 @@ Compression libraries
 
 Storage formats (instead of separate files)
 
-1) HDF5 for python
+1) HDF5 for python, The h5py package is a Pythonic interface to the HDF5 binary data format.
 - http://www.h5py.org/
