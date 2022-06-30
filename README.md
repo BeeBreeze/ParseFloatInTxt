@@ -51,19 +51,19 @@ BIBLIOGRAPHY
 ===========
 These papers describe algorithms for compressing floating point data arrays. They should give a much better compression ratio than various kinds of ZIP.
 
-Fast Lossless Compression of Scientific Floating-Point Data
+1) Fast Lossless Compression of Scientific Floating-Point Data
 - http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.91.7936&rep=rep1&type=pdf
 
-Fast and Efficient Compression of Floating-Point Data(fpzip)
+2) Fast and Efficient Compression of Floating-Point Data(fpzip)
 - http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.124.8968&rep=rep1&type=pdf
 
-High Throughput Compression of Double-Precision Floating-Point Data(fpc)
+3) High Throughput Compression of Double-Precision Floating-Point Data(fpc)
 - http://users.ices.utexas.edu/~burtscher/papers/dcc07a.pdf
 
-A line-by-line description of fpc
+4) A line-by-line description of fpc
 - http://users.ices.utexas.edu/~burtscher/papers/tr08.pdf
 
-Floating-Point Data Compression at 75 Gb/s on a GP(fpc on GPU)
+5) Floating-Point Data Compression at 75 Gb/s on a GPU(fpc on GPU)
 - http://www.ece.neu.edu/groups/nucar/GPGPU4/files/oneil.pdf
 - http://www.cs.unc.edu/~isenburg/lcpfpv/
 - https://xiph.org/flac/
