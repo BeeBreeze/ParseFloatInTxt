@@ -56,6 +56,8 @@ Fast Lossless Compression of Scientific Floating-Point Data
 
 Fast and Efficient Compression of Floating-Point Data(fpzip)
 - http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.124.8968&rep=rep1&type=pdf
+
+High Throughput Compression of Double-Precision Floating-Point Data(fpc)
 - http://users.ices.utexas.edu/~burtscher/papers/dcc07a.pdf
 - http://users.ices.utexas.edu/~burtscher/papers/tr08.pdf
 - http://www.ece.neu.edu/groups/nucar/GPGPU4/files/oneil.pdf
