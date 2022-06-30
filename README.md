@@ -79,9 +79,13 @@ These papers describe algorithms for compressing floating point data arrays. The
 
 
 Compression libraries
-
+1) fpzip
 - http://computation.llnl.gov/casc/fpzip/fpzip.html
+
+2) LZF Compression Filter for HDF5
 - http://www.h5py.org/lzf/
 
 Storage formats (instead of separate files)
+
+1) HDF5 for python
 - http://www.h5py.org/
