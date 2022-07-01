@@ -68,7 +68,7 @@ These papers describe algorithms for compressing floating point data arrays. The
 5) Floating-Point Data Compression at 75 Gb/s on a GPU(fpc on GPU)
 - http://www.ece.neu.edu/groups/nucar/GPGPU4/files/oneil.pdf 
  
-6) Lossless Compression of Predicted Floating-Point Values
+6) Lossless Compression of Predicted Floating-Point Values, range code mantissa by taking exponent as context, no prediction algo
 - http://www.cs.unc.edu/~isenburg/lcpfpv/ 
 
 7) Free Lossless Audio Codec, linear prediction coding, 30MB/s on i5-4200U
