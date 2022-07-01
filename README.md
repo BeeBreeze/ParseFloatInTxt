@@ -82,7 +82,7 @@ Compression libraries
 1) fpzip
 - http://computation.llnl.gov/casc/fpzip/fpzip.html
 
-2) LZF Compression Filter for HDF5
+2) LZF Compression Filter for HDF5, lzf is an lz series algo, and zstd perform much better.
 - http://www.h5py.org/lzf/
 
 Storage formats (instead of separate files)
